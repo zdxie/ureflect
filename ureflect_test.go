@@ -1,8 +1,3 @@
-// Copyright 2017 Clustertech Limited. All rights reserved.
-// Clustertech Cloud Management Platform.
-//
-// Author: zdxie (zdxie@clustertech.com)
-
 package reflect
 
 import (
